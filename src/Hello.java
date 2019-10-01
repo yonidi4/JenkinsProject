@@ -7,5 +7,8 @@ public class Hello {
 		System.out.println("play with that");
 
 	}
+	public void println() {
+		System.out.println("ne w method");
+	}
 
 }
